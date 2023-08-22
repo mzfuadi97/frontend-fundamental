@@ -13,5 +13,7 @@ Dalam proyek pembuatan aplikasi pencarian resep makanan, ada tantangan dalam men
 
 ## Dokumentasi Deploy Aplikasi
 ### User Interface
+![UI](https://github.com/mzfuadi97/CloudArch-Sub1/assets/70827786/9edfb769-7b7e-4e8e-b9ac-522246aafe9c)
+
 
 
